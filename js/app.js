@@ -155,6 +155,10 @@ require.register("elm/Main.elm", function(exports, require, module) {
 
 });
 
+;require.register("elm/ZK/Zipper.elm", function(exports, require, module) {
+
+});
+
 ;require.register("js/app.js", function(exports, require, module) {
 
 });

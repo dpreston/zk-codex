@@ -1,493 +1,229 @@
 {
   "records": [
     {
-      "id": 0,
-      "name": "<default record: 0>",
-      "firstPage": 0,
+      "id": 17374,
+      "name": "Hector Goffe",
+      "category": "Character",
+      "firstPage": 1,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 1,
+          "text": "Hector and Garovel meet",
           "summary": null
         },
         {
-          "id": 65540,
-          "page": 0,
-          "text": "<default entry: 65540>",
+          "id": 29863,
+          "page": 136,
+          "text": "Hector buys a bike",
           "summary": null
         },
         {
-          "id": 65482,
-          "page": 0,
-          "text": "<default entry: 65482>",
+          "id": 31132,
+          "page": 138,
+          "text": "Hector crashes his bike",
           "summary": null
         },
         {
-          "id": 20306,
-          "page": 0,
-          "text": "<default entry: 20306>",
-          "summary": null
-        },
-        {
-          "id": 45636,
-          "page": 0,
-          "text": "<default entry: 45636>",
-          "summary": null
-        },
-        {
-          "id": 21454,
-          "page": 0,
-          "text": "<default entry: 21454>",
-          "summary": null
-        },
-        {
-          "id": 86611,
-          "page": 0,
-          "text": "<default entry: 86611>",
-          "summary": null
-        },
-        {
-          "id": 38571,
-          "page": 0,
-          "text": "<default entry: 38571>",
-          "summary": null
-        },
-        {
-          "id": 74785,
-          "page": 0,
-          "text": "<default entry: 74785>",
-          "summary": null
-        },
-        {
-          "id": 41217,
-          "page": 0,
-          "text": "<default entry: 41217>",
-          "summary": null
-        },
-        {
-          "id": 84429,
-          "page": 0,
-          "text": "<default entry: 84429>",
-          "summary": null
-        },
-        {
-          "id": 62686,
-          "page": 0,
-          "text": "<default entry: 62686>",
-          "summary": null
-        },
-        {
-          "id": 70615,
-          "page": 0,
-          "text": "<default entry: 70615>",
-          "summary": null
-        },
-        {
-          "id": 61572,
-          "page": 0,
-          "text": "<default entry: 61572>",
-          "summary": null
-        },
-        {
-          "id": 74034,
-          "page": 0,
-          "text": "<default entry: 74034>",
-          "summary": null
-        },
-        {
-          "id": 78893,
-          "page": 0,
-          "text": "<default entry: 78893>",
-          "summary": null
-        },
-        {
-          "id": 77232,
-          "page": 0,
-          "text": "<default entry: 77232>",
-          "summary": null
-        },
-        {
-          "id": 29648,
-          "page": 0,
-          "text": "<default entry: 29648>",
-          "summary": null
-        },
-        {
-          "id": 24128,
-          "page": 0,
-          "text": "<default entry: 24128>",
-          "summary": null
-        },
-        {
-          "id": 74738,
-          "page": 0,
-          "text": "<default entry: 74738>",
-          "summary": null
-        },
-        {
-          "id": 64348,
-          "page": 0,
-          "text": "<default entry: 64348>",
-          "summary": null
-        },
-        {
-          "id": 26061,
-          "page": 0,
-          "text": "<default entry: 26061>",
-          "summary": null
-        },
-        {
-          "id": 99733,
-          "page": 0,
-          "text": "<default entry: 99733>",
-          "summary": null
-        },
-        {
-          "id": 43557,
-          "page": 0,
-          "text": "<default entry: 43557>",
-          "summary": null
-        },
-        {
-          "id": 50785,
-          "page": 0,
-          "text": "<default entry: 50785>",
-          "summary": null
-        },
-        {
-          "id": 49538,
-          "page": 0,
-          "text": "<default entry: 49538>",
-          "summary": null
-        },
-        {
-          "id": 95102,
-          "page": 0,
-          "text": "<default entry: 95102>",
-          "summary": null
-        },
-        {
-          "id": 79706,
-          "page": 0,
-          "text": "<default entry: 79706>",
-          "summary": null
-        },
-        {
-          "id": 26989,
-          "page": 0,
-          "text": "<default entry: 26989>",
-          "summary": null
-        },
-        {
-          "id": 41590,
-          "page": 0,
-          "text": "<default entry: 41590>",
-          "summary": null
-        },
-        {
-          "id": 92255,
-          "page": 0,
-          "text": "<default entry: 92255>",
+          "id": 93273,
+          "page": 142,
+          "text": "Hector crashes again",
           "summary": null
         }
       ]
     },
     {
-      "id": 33415,
-      "name": "<default record: 33415>",
-      "firstPage": 0,
+      "id": 93165,
+      "name": "Garovel",
+      "category": "Character",
+      "firstPage": 1,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 1,
+          "text": "Garovel and Hector meet",
           "summary": null
         }
       ]
     },
     {
-      "id": 14730,
-      "name": "<default record: 14730>",
-      "firstPage": 0,
+      "id": 39057,
+      "name": "Samuel Goffe",
+      "category": "Character",
+      "firstPage": 7,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 7,
+          "text": "Hector's Father",
           "summary": null
         }
       ]
     },
     {
-      "id": 44890,
-      "name": "<default record: 44890>",
-      "firstPage": 0,
+      "id": 88194,
+      "name": "Vanessa Goffe",
+      "category": "Character",
+      "firstPage": 7,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 7,
+          "text": "Hector's Mother",
           "summary": null
         }
       ]
     },
     {
-      "id": 46618,
-      "name": "<default record: 46618>",
-      "firstPage": 0,
+      "id": 56302,
+      "name": "Geoffrey Rofal",
+      "category": "Character",
+      "firstPage": 65,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 65,
+          "text": "Nephew to Joseph Rofal, grandson to Damian Rofal. He is an “aberration”-- a monster in human form. He sees reapers as blurry humans. ",
           "summary": null
         }
       ]
     },
     {
-      "id": 86548,
-      "name": "<default record: 86548>",
-      "firstPage": 0,
+      "id": 31018,
+      "name": "Joseph Rofal",
+      "category": "Character",
+      "firstPage": 70,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 70,
+          "text": "The head of the Rofal crime family. Forced Colt to work for him. ",
           "summary": null
         }
       ]
     },
     {
-      "id": 10621,
-      "name": "<default record: 10621>",
-      "firstPage": 0,
+      "id": 38568,
+      "name": "Damian Rofal",
+      "category": "Character",
+      "firstPage": 211,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 211,
+          "text": "Father to Joseph Rofal, grandfather to Geoffrey Rofal. He is a servant. His reaper is Feromas. Unknown alignment. Despite his mental instability, he seems to possess great power and knowledge. He sees reapers as jesters. ",
           "summary": null
         }
       ]
     },
     {
-      "id": 24725,
-      "name": "<default record: 24725>",
-      "firstPage": 0,
+      "id": 96356,
+      "name": "Feromas",
+      "category": "Character",
+      "firstPage": 211,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 211,
+          "text": "A reaper of unknown alignment. His servant is Damian Rofal. Feromas is also Damian's great grandfather.",
           "summary": null
         }
       ]
     },
     {
-      "id": 99977,
-      "name": "<default record: 99977>",
-      "firstPage": 0,
+      "id": 40412,
+      "name": "Jeremiah Colt",
+      "category": "Character",
+      "firstPage": 44,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 44,
+          "text": "An ex-cop who used to kill criminals and was later forced to murder innocent people. ",
+          "summary": "Became a servant during the Third Oath. His reaper is Bohwanox. Independently aligned. He sees reapers as black-hooded figures. "
+        }
+      ]
+    },
+    {
+      "id": 71634,
+      "name": "Bohwanox",
+      "category": "Character",
+      "firstPage": 44,
+      "entries": [
+        {
+          "id": 0,
+          "page": 44,
+          "text": "A reaper. Around 100 years old--notably much younger than most reapers. He had no servant until the Third Oath, wherein he resurrected Colt. ",
           "summary": null
         }
       ]
     },
     {
-      "id": 81304,
-      "name": "<default record: 81304>",
+      "id": 89780,
+      "name": "Materialization",
+      "category": "Power",
       "firstPage": 0,
       "entries": [
         {
           "id": 0,
           "page": 0,
-          "text": "<default entry: 0>",
+          "text": "",
+          "summary": "Creates and Destroys Mass of a single element"
+        }
+      ]
+    },
+    {
+      "id": 23075,
+      "name": "Transfiguration",
+      "category": "Power",
+      "firstPage": 10,
+      "entries": [
+        {
+          "id": 0,
+          "page": 10,
+          "text": "Converts the Servants body mass to a single element",
           "summary": null
         }
       ]
     },
     {
-      "id": 62554,
-      "name": "<default record: 62554>",
-      "firstPage": 0,
+      "id": 49801,
+      "name": "Pan-Forma",
+      "category": "Power",
+      "firstPage": 100,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 100,
+          "text": "Combines multiple ability types by merging the reaper and servant",
           "summary": null
         }
       ]
     },
     {
-      "id": 62473,
-      "name": "<default record: 62473>",
+      "id": 13597,
+      "name": "House Belgrant",
+      "category": "World",
       "firstPage": 0,
       "entries": [
         {
           "id": 0,
           "page": 0,
-          "text": "<default entry: 0>",
+          "text": "The current ruling house of Atreya",
           "summary": null
         }
       ]
     },
     {
-      "id": 31353,
-      "name": "<default record: 31353>",
-      "firstPage": 0,
+      "id": 62123,
+      "name": "Atreya",
+      "category": "World",
+      "firstPage": 200,
       "entries": [
         {
           "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 59920,
-      "name": "<default record: 59920>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 83236,
-      "name": "<default record: 83236>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 38411,
-      "name": "<default record: 38411>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 50181,
-      "name": "<default record: 50181>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 50098,
-      "name": "<default record: 50098>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 59856,
-      "name": "<default record: 59856>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 37747,
-      "name": "<default record: 37747>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 16704,
-      "name": "<default record: 16704>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 95257,
-      "name": "<default record: 95257>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 11417,
-      "name": "<default record: 11417>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
-          "summary": null
-        }
-      ]
-    },
-    {
-      "id": 33594,
-      "name": "<default record: 33594>",
-      "firstPage": 0,
-      "entries": [
-        {
-          "id": 0,
-          "page": 0,
-          "text": "<default entry: 0>",
+          "page": 200,
+          "text": "A small country on the Eloan continent",
           "summary": null
         }
       ]

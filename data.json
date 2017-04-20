@@ -1,10 +1,12 @@
 {
+  "maxPage": 1387,
   "records": [
     {
       "id": 17374,
       "name": "Hector Goffe",
-      "category": "Character",
+      "category": "Character Servant",
       "firstPage": 1,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -35,8 +37,9 @@
     {
       "id": 93165,
       "name": "Garovel",
-      "category": "Character",
+      "category": "Character Reaper",
       "firstPage": 1,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -49,8 +52,9 @@
     {
       "id": 39057,
       "name": "Samuel Goffe",
-      "category": "Character",
+      "category": "Character Human",
       "firstPage": 7,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -63,8 +67,9 @@
     {
       "id": 88194,
       "name": "Vanessa Goffe",
-      "category": "Character",
+      "category": "Character Human",
       "firstPage": 7,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -77,8 +82,9 @@
     {
       "id": 56302,
       "name": "Geoffrey Rofal",
-      "category": "Character",
+      "category": "Character Aberration",
       "firstPage": 65,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -91,8 +97,9 @@
     {
       "id": 31018,
       "name": "Joseph Rofal",
-      "category": "Character",
+      "category": "Character Human",
       "firstPage": 70,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -105,8 +112,9 @@
     {
       "id": 38568,
       "name": "Damian Rofal",
-      "category": "Character",
+      "category": "Character Servant",
       "firstPage": 211,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -119,8 +127,9 @@
     {
       "id": 96356,
       "name": "Feromas",
-      "category": "Character",
+      "category": "Character Reaper",
       "firstPage": 211,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -133,8 +142,9 @@
     {
       "id": 40412,
       "name": "Jeremiah Colt",
-      "category": "Character",
+      "category": "Character Servant",
       "firstPage": 44,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -147,8 +157,9 @@
     {
       "id": 71634,
       "name": "Bohwanox",
-      "category": "Character",
+      "category": "Character Reaper",
       "firstPage": 44,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -161,8 +172,9 @@
     {
       "id": 89780,
       "name": "Materialization",
-      "category": "Power",
+      "category": "Power Elemental",
       "firstPage": 0,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -175,8 +187,9 @@
     {
       "id": 23075,
       "name": "Transfiguration",
-      "category": "Power",
+      "category": "Power Elemental",
       "firstPage": 10,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -189,13 +202,14 @@
     {
       "id": 49801,
       "name": "Pan-Forma",
-      "category": "Power",
+      "category": "Power Hyper",
       "firstPage": 100,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
           "page": 100,
-          "text": "Combines multiple ability types by merging the reaper and servant",
+          "text": "The basic Hyper-form for Materialization and Transfiguration users. It is the hardest of the three basic states to use.",
           "summary": null
         }
       ]
@@ -203,8 +217,9 @@
     {
       "id": 13597,
       "name": "House Belgrant",
-      "category": "World",
+      "category": "World House",
       "firstPage": 0,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
@@ -217,13 +232,329 @@
     {
       "id": 62123,
       "name": "Atreya",
-      "category": "World",
+      "category": "World Location",
       "firstPage": 200,
+      "lastPage": 0,
       "entries": [
         {
           "id": 0,
           "page": 200,
           "text": "A small country on the Eloan continent",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 13162,
+      "name": "Alteration",
+      "category": "Power Elemental",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 46326,
+      "name": "Destruction",
+      "category": "Power Elemental",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 26534,
+      "name": "Mutation",
+      "category": "Power Elemental",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 69654,
+      "name": "Integration",
+      "category": "Power Elemental",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 12701,
+      "name": "Pan-Moc",
+      "category": "Power Hyper",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "The basic Hyper-form for Alteration and Destruction users. It is the second easiest of the four hyper states to use, between -Forma and -Wzrost.",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 88890,
+      "name": "Pan-Wzrost",
+      "category": "Power Hyper",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "The basic Hyper-form for Mutation and Integration users. It is the easiest of the four hyper states to acheive and is required to learn the use of new elements",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 28507,
+      "name": "Pan-Rozum",
+      "category": "Power Hyper",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": "The strongest Hyper-state, and usable by all servant types but requires decades of soul sync before it is safe (or even possible) to use.\nIt allows combination of multiple ability types eg. Materialization + Transfiguration"
+        }
+      ]
+    },
+    {
+      "id": 68819,
+      "name": "Eloa",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "The continent TZK takes place on.",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 58042,
+      "name": "Sair",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "Is the home of the Rain- and Sand-lords. It is currently allied with the Vanguard.",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 19256,
+      "name": "Intar",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "Larger neighbour to Sair. Allied with the Vanguard",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 59543,
+      "name": "Calthos",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "Neighbour to Sair. Allied with Abolish?",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 72785,
+      "name": "Rendon",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "Neighbour to Atreya. Relations have been tense in the recent past.",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 45450,
+      "name": "Eleg",
+      "category": "World Location",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "The name of the planet. Comparative technology/society level to Earth",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 15152,
+      "name": "Sandlords",
+      "category": "World Faction",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 55782,
+      "name": "Rainlords",
+      "category": "World Faction",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 99648,
+      "name": "House Lumenbel",
+      "category": "World House",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 68873,
+      "name": "Vanguard",
+      "category": "World Faction",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 39405,
+      "name": "Elroys",
+      "category": "World House",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 64577,
+      "name": "Redwaters",
+      "category": "World House",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 64586,
+      "name": "Abolish",
+      "category": "World Faction",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
+          "summary": null
+        }
+      ]
+    },
+    {
+      "id": 86156,
+      "name": "Blackburn",
+      "category": "World House",
+      "firstPage": 0,
+      "lastPage": 0,
+      "entries": [
+        {
+          "id": 0,
+          "page": 0,
+          "text": "",
           "summary": null
         }
       ]
